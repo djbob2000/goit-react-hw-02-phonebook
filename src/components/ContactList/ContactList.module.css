@@ -6,3 +6,7 @@
   margin-left: 10px;
   background: red;
 }
+
+.list__item {
+  margin-bottom: 10px;
+}
