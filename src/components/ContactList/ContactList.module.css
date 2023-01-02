@@ -1,0 +1,8 @@
+.button__delete {
+  margin-left: 10px;
+}
+
+.button__delete:active {
+  margin-left: 10px;
+  background: red;
+}
